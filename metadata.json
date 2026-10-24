@@ -1,0 +1,6 @@
+{
+  "name": "Scrabble CSW24",
+  "description": "Official Scrabble game featuring CSW24 dictionary, intelligent AI with best-move solver, up to 4-player multiplayer with QR barcode room invites, challenge system, and dynamic Bingo celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
